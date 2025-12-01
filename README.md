@@ -1,8 +1,3 @@
- <!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/2y7YgQF.jpg" alt="Abarnan Banner" width="100%" />
-</p>
-
 <h1 align="center">👋 Hi, I'm <strong>Ratnam Abarnan</strong></h1>
 
 <p align="center">
@@ -25,38 +20,6 @@ I specialize in **full-stack web development** and love building clean, efficien
 
 I’m currently looking for a **Software Engineering Internship** to refine my real-world development skills.
 
----
-
-## 🎓 Education
-
-- **BSc. (Hons) in Computing & Information Systems**  
-  *Sabaragamuwa University of Sri Lanka (2023–2027)*
-
-- **G.C.E. Advanced Level**  
-  *Jaffna Hindu College (2021)*
-
----
-
-## 💡 Projects
-
-### 🍽️ FoodDelivery – MERN Stack  
-🔗 https://github.com/Abarnan18/Food-Delivery  
-A full-stack food delivery app featuring:  
-✔️ Restaurant browsing  
-✔️ Dish search  
-✔️ Cart + Order tracking  
-✔️ Responsive UI  
-**Tech:** React, Node.js, Express.js, MongoDB
-
----
-
-### 🎬 Movie-Site – React  
-🔗 https://github.com/Abarnan18/Movie-website  
-A responsive movie browsing website  
-**Tech:** React.js
-
----
-
 ## 🧠 Skills
 
 ### **Frontend**
@@ -73,9 +36,6 @@ MongoDB • MySQL
 
 ### **Tools**
 Git • GitHub • Figma  
-
-### **Soft Skills**
-Communication • Teamwork • Problem Solving • Fast Learning  
 
 ---
 
@@ -106,16 +66,6 @@ Communication • Teamwork • Problem Solving • Fast Learning
   <a href="https://www.linkedin.com/in/ratnam-abarnan-140150385/"><img src="https://img.shields.io/badge/LinkedIn-Abarnan-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:abarnanrathnam@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" /></a>
 </p>
-
----
-
-## 🧑‍🏫 Reference
-
-**Saleem Adeeba**  
-Lecturer (Probationary), Faculty of Computing  
-Sabaragamuwa University of Sri Lanka  
-📧 adeesa@foc.sab.ac.lk  
-📞 +94 72 092 8486
 
 ---
 
