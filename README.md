@@ -48,10 +48,10 @@ Git • GitHub • Figma
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abarnan18&show_icons=true&theme=react&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abarnan18&layout=compact&theme=react&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Abarnan18&theme=react&hide_border=true" />
